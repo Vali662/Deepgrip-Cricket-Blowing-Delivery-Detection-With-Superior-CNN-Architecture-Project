@@ -1,6 +1,6 @@
 # Deepgrip-Cricket-Blowing-Delivery-Detection-With-Superior-CNN-Architecture-Project
  Designed a deep learning model to detect and classify cricket bowling deliveries using image and video datasets.
-🏏 DeepGrip: Cricket Bowling Delivery Detection using CNN
+ DeepGrip: Cricket Bowling Delivery Detection using CNN
 
 ## Overview
 DeepGrip is a deep learning-based project designed to detect and classify cricket bowling deliveries using image and video datasets. The system uses a Convolutional Neural Network (CNN) to analyze bowler hand grip and predict the type of delivery such as spin, seam, or variation.
